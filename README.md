@@ -5,6 +5,8 @@
 
 This project involves an in-depth analysis of Airbnb listings in New York City. The dataset contains various attributes such as listing ID, name, host ID, host name, neighborhood group, neighborhood, latitude, longitude, room type, price, minimum nights, number of reviews, last review, and reviews per month. The main objective is to uncover insights related to revenue generation by neighborhood and room type.
 
+![Jupyter Notebook](./Airbnb_Exercise_Student_Facing_170221.ipynb)
+
 ## Technologies Used
 
 - Python
